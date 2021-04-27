@@ -4,7 +4,7 @@
 codmojie hosts programming language emojies taken from wikipedia and protected by an open source license. Use codmojie to improve your READMY.md
 </p>
 
-## les emojies :
+## emojies :
 
 
 ![html-emoji](src/emoji/html.png)   html emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/html.png)
