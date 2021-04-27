@@ -1,10 +1,10 @@
 <h1 align="center">Codmoji</h1>
 
 <p align="center">
-codmojie hosts programming language emojies taken from wikipedia and protected by an open source license. Use codmojie to improve your READMY.md
+codmojie hosts programming language emojies taken from wikipedia and protected by an open source license. Use codmojie to improve your README.md
 </p>
 
-## les emojies :
+## emojies :
 
 
 ![html-emoji](src/emoji/html.png)   html emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/html.png)
@@ -14,6 +14,8 @@ codmojie hosts programming language emojies taken from wikipedia and protected b
 ![css-emoji](src/emoji/css.png) css emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/css.png)
 
 ![js-emoji](src/emoji/js.png) js emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/js.png)
+
+![js-emoji](src/emoji/js2.png) js emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/js2.png)
 
 ![vuejs-emoji](src/emoji/vuejs.png) vuejs emoji | copy link [here](https://yannis-mlgrn.github.io/codmoji/src/emoji/vuejs.png)
 
